@@ -1,17 +1,16 @@
-</> Markdown
 
-# What's in the Claude Overview & Features?
+What's in the Claude Overview & Features?
 
 The file covers the complete Claude ecosystem — from basics to advanced agentic workflows:
 
-**Claude Chat** — prompting, memory, projects, artifacts, voice mode.
+Claude Chat — prompting, memory, projects, artifacts, voice mode.
 
-**Claude Cowork** — agentic desktop automation, skills, connectors, plugins, scheduling, browser agent, MS 365.
+Claude Cowork — agentic desktop automation, skills, connectors, plugins, scheduling, browser agent, MS 365.
 
-**Claude Code** — agentic coding in terminal/VS Code, model selection, init files, demos.
+Claude Code — agentic coding in terminal/VS Code, model selection, init files, demos.
 
-**CRISP Framework** — structured prompting technique for accurate outputs.
+CRISP Framework — structured prompting technique for accurate outputs.
 
-**Security best practices** — what to grant, what to avoid.
+Security best practices — what to grant, what to avoid.
 
-**Quick reference table** — which tool for which task
+Quick reference table — which tool for which task
